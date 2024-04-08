@@ -1,0 +1,30 @@
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+env.bak/
+env1/
+env2/
+venv1/
+venv2/
+.venv/
+.venv.bak/
+.venv1/
+.venv2/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# all the data files
+*.npy
+
+# mac metadata
+.DS_Store
+
+# the zip files
+*.zip
